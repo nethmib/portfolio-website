@@ -1,0 +1,27 @@
+#title{
+    color:blue;
+}
+
+#main-title{
+    color:red;
+
+}
+
+#title-a{
+    color:yellow;
+}
+
+#table{
+    border:1px soild blue;
+    padding: 2px;
+}
+
+#th{
+    border: 2px solid black;
+    padding: 9px;
+}
+
+#td{
+    border: 2px solid red;
+    padding: 9px;
+}
